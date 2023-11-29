@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  api:
+      container_name: 'api'
+      depends_on:
+        - "db"
+      build:
+        dockerfile: DistributedSystems/Dockerfile
+        context: .
+      ports:
+        - 30000:80
+      environment:
+        - ASPNETCORE_ENVIRONMENT=Debug
+        - LOGS_PATH=/var/log/debug-api
+        - ConnectionStrings__DefaultConnection=User ID=postgres;Password=postgres;Host=db;port=5432;Database=db
+  db:
+    image: postgres:14
+    container_name: 'db'
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: db
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - 5432:5432
+  
