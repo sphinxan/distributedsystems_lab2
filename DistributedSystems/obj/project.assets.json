@@ -2927,11 +2927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\DistributedSystems\\DistributedSystems\\DistributedSystems.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\distributedsystems_lab2\\DistributedSystems\\DistributedSystems.csproj",
       "projectName": "DistributedSystems",
-      "projectPath": "C:\\Users\\user\\source\\repos\\DistributedSystems\\DistributedSystems\\DistributedSystems.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\distributedsystems_lab2\\DistributedSystems\\DistributedSystems.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\DistributedSystems\\DistributedSystems\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\distributedsystems_lab2\\DistributedSystems\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

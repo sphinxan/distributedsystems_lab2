@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistributedSystems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dd7ecb06ceeda5c5654ea901683f15848b1d59e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistributedSystems")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistributedSystems")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

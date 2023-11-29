@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WMDvXXxm7cEqtXMIYwundHu7e/9LFSWyz1Jxa5ce+qlIYjca2pY4W5/S1PJqC7+C4syaQmcTmaRiwC4PKP+//g==",
+  "dgSpecHash": "ndN23gVc3ceXBM6sPnBeZ+/MGSU4QZNpIXOUTsl4Qbzt7H2DrNHnEsgxH+JszZetX7uG9Syd6R0LjJSQLT2PWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\DistributedSystems\\DistributedSystems\\DistributedSystems.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\distributedsystems_lab2\\DistributedSystems\\DistributedSystems.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
